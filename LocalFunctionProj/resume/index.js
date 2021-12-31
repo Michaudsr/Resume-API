@@ -36,17 +36,32 @@ module.exports = function(context, req) {
           "endDate": "December 2021",
           "summary": "Monitoring machines, equipment, and processes. Moving products and materials with cranes. Cutting product to specific size ordered. Performing test on finished product, labeling and prepping product to be shipped. Installing paper machine clothing, and performing housekeeping duties.",
         }],
-        "education": [{
+        "education": [
+        {
           "institution": "Georgia State University",
           "area": "Computer Science",
           "studyType": "Current",
           "startDate": "May 2021",
           "endDate": "Current",
-        }],
-        "awards": [{
+        },
+        {
+          "institution": "General Assembly",
+          "area": "Software Engineering",
+          "studyType": "Software Engineering Immersive course",
+          "startDate": "July 2020",
+          "endDate": "October 2020",
+        }
+        ],
+        "Certifications": [
+        {
           "title": "Comptia ITF+",
           "date": "12-23-2021",
           "awarder": "Comptia",
+        },
+        {
+            "title": "Software Engineering Immersive Certification",
+            "date": "10-5-2020",
+            "awarder": "General Assembly",
         }
       ],
         "skills": [
