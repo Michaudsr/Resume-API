@@ -59,10 +59,15 @@ module.exports = function(context, req) {
           "awarder": "Comptia",
         },
         {
+          "title": "Google IT Support Professional Certification",
+          "date": "1-1-2022",
+          "awarder": "Google",
+        },
+        {
             "title": "Software Engineering Immersive Certification",
             "date": "10-5-2020",
             "awarder": "General Assembly",
-        }
+        },
       ],
         "skills": [
           {
